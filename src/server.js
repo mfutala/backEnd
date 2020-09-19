@@ -5,7 +5,9 @@ const manager = {
     name: 'bos',
     age: 37
 }
-
+/**
+ * Feature Comment
+ */
 const empl2 = {
     name: 'Doe Vasile',
     age: 34
